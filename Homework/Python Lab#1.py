@@ -8,9 +8,12 @@ def coffeShop():
  
 #2 Palindrome(str)
 def Palindrome():
-    s = list(input("word: ")) #the input still be the same but just as list type
-    #reversed can use for list, not for string
-    rev_s = list(reversed(s)) #The word will be reversed but in type as list
+    #Lists are used to store multiple items in a single variable.
+    #Lists are created using square brackets
+    s = list(input("word: "))
+    #reversed is a method returns an iterator that accesses the given sequence in the reverse order.
+    #Reversed cannot used for string
+    rev_s = list(reversed(s)) 
     if s == rev_s: 
         print("yes") 
     else:

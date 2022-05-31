@@ -1,0 +1,7 @@
+Day      : Monday
+Date     : May 16
+Event    : Flex
+Time: 10 :15
+Tie Color: Green
+Location : Atrium
+Teacher  : Mr.Freshwater and Ms.Hill
